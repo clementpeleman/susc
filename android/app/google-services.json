@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045132133892",
+    "project_id": "app-susc",
+    "storage_bucket": "app-susc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045132133892:android:b1cbc73eec623cfb72d751",
+        "android_client_info": {
+          "package_name": "com.susc.susctestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045132133892-k8l8c67v6i823gq24miq0jlh4tbpnk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5n2r7qnLTyc9ml5kn_3iWssOY09ZRDJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045132133892-k8l8c67v6i823gq24miq0jlh4tbpnk2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
