@@ -1,6 +1,6 @@
 {
-    "name": "susctestapp",
-    "short_name": "susctestapp",
+    "name": "susc_test",
+    "short_name": "susc_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
