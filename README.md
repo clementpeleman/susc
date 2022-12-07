@@ -1,4 +1,4 @@
-# susctestapp
+# susc_test
 
 A new Flutter project.
 
